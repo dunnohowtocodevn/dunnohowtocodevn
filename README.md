@@ -3,6 +3,7 @@
 # Hi there, I'm Shawn 👋
 
 ### Welcome to my GitHub profile!
+<img src="https://i.pinimg.com/564x/0f/09/ea/0f09ea8bb0055a4bb9c66dc905c3b3b7.jpg" alt="Your Name" width="200"/>
 
 I am currently pursuing a Computer Science degree with a major in Data Science. My passion lies in uncovering insights from data and applying machine learning techniques to solve real-world problems. Here’s a little more about me and my journey so far:
 
