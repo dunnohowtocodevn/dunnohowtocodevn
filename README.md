@@ -1,10 +1,6 @@
-## Hi there 👋
 
-Sure! Here’s the revised version of your GitHub profile README with a short paragraph about you instead of the projects section:
 
----
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shawn 👋
 
 ### Welcome to my GitHub profile!
 
