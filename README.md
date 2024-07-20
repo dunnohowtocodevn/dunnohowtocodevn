@@ -28,11 +28,6 @@ I am an enthusiastic data science student with a strong foundation in computer s
 
 
 
-## Achievements
-
-- **Certification**: [Name of Certification] - [Issuing Organization]
-- **Hackathons**: Participated and won [mention if any]
-- **Publications**: [Link to any publications or research work]
 
 ## What I’m currently working on
 
@@ -42,7 +37,7 @@ I am an enthusiastic data science student with a strong foundation in computer s
 
 ## Fun Fact
 
-- I love playing billiards and basketball and listening to Rap music!!!
+- I love playing billiards and basketball and listening to Hiphop music!!!
 
 ---
 
